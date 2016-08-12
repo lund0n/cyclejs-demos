@@ -5,8 +5,8 @@ on a page as well as to control the Sphero.
 
 In order to use the code, you'll need to do the following:
 1. Obtain a Sphero
-2. Add your Sphero's connection port to the `server.js` file, line 12. (Refer to
-  https://www.npmjs.com/package/sphero#connecting-to-spherosprk for more details)
+2. Add your Sphero's connection port to the `server.js` file, line 15. (Refer to
+  https://www.npmjs.com/package/cylon-sphero#osx for more details)
 
 ### Usage
 
